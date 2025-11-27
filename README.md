@@ -13,5 +13,5 @@ This repository contains real-world incident analysis, lab work, reports, and le
 
 ## Author
 David Seabrook  
-Australia  
+Newcastle Australia  
 Cybersecurity • Blue Team • Digital Forensics
