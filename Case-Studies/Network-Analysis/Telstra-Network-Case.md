@@ -8,7 +8,7 @@
 
 ## 🎯 Objective
 
-Analyze unusual network behaviour observed on a Telstra Smart Modem (Cobra model).  
+Analyse unusual network behaviour observed on a Telstra Smart Modem (Cobra model).  
 Determine whether logs indicated external compromise or normal router operations.
 
 ---
