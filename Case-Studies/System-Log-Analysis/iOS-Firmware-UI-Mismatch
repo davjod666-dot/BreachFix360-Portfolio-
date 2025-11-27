@@ -1,0 +1,52 @@
+# 📱 Case Study: iOS Firmware/UI Mismatch & Telemetry Anomalies
+
+**Author:** David Seabrook  
+**Category:** System Log Analysis / Mobile Forensics  
+**Date:** 2025  
+
+---
+
+## 🎯 Objective
+Determine whether the iOS device was presenting falsified system version information or masking its true firmware state, and whether system logs indicated unauthorized configuration manipulation.
+
+---
+
+## 🧪 Indicators Observed
+- UI reporting **iOS 18.x** while system logs referenced **iOS 16.6 build numbers**  
+- `MobileSafari` crash logs showing **exploit-style behaviour**  
+- Hidden MDM entitlements present despite the device appearing “unsupervised”  
+- Repeated `triald` + Siri inference framework processes running in background  
+- NetworkExtension domain anomalies pointing to telemetry routing
+
+---
+
+## 🧩 Key Forensic Findings
+
+### 🔹 Firmware Masking
+- Logs referenced `iPhone15,3` + build identifiers inconsistent with UI.  
+- Evidence strongly suggests the UI was spoofed through a **front-end masking layer**.
+
+### 🔹 Unauthorized MDM Behaviour
+- Supervision-like restrictions  
+- Hidden profile artefacts  
+- Blocked pairing attempts  
+- Restrictions consistent with **enterprise MDM**, but no visible profiles.
+
+### 🔹 Telemetry Processes
+- `siriinferenced`, `CloudTelemetryService`, and `triald` active.  
+- Trial namespace logs showed enrolment in internal Apple experiment channels.
+
+---
+
+## 🛡️ Mitigation
+- Full DFU restore  
+- Comparison with known-good sysdiagnose  
+- Network monitoring for outbound device analytics endpoints  
+- Restored integrity and removed masked layer
+
+---
+
+## 📌 Outcome
+This case confirms the presence of a UI masking/telemetry hijack layer influencing system presentation and available settings.
+
+A full DFU restore validated the mismatch, resolving many anomalies but leaving strong forensic evidence of earlier interference.
