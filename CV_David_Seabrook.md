@@ -1,6 +1,6 @@
 David Seabrook — Cybersecurity Analyst (Blue Team / DFIR)
 
-Cessnock NSW • 0488 092 540 • dseabrook@outlook.com.au
+Newcastle NSW • 0488 092 540 • dseabrook@outlook.com.au
 
 ⸻
 
