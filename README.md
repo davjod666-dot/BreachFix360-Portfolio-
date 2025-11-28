@@ -47,3 +47,4 @@ Threat Hunting • Mobile Forensics • Protocol Analysis
 
 Email: dseabrook@outlook.com.au
 Region: NSW, Australia
+I am ready to commence my cyber journey with you!
