@@ -1,6 +1,6 @@
 BreachFix360 Portfolio Highlights
 
-David Seabrook — Blue Team | Digital Forensics | Cyber Defence
+David Seabrook — Blue Team | Digital Forensics | Cyber Defence | Emergency Services Mindset | Hands On Practicality
 
 ⸻
 
