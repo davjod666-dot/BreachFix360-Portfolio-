@@ -1,9 +1,9 @@
 🛡️ BreachFix360 Cybersecurity Portfolio
 
 Analyst: D. Seabrook
-Location: NSW, Australia
+Location: Newcastle, NSW, Australia
 Focus Areas: SOC Analysis • DFIR • Network Defence • Incident Response • System Forensics
-Approach: Evidence-Driven • Log-First Learning • No Fluff
+Approach: Evidence-Driven • Log-First Learning • Hands On
 
 🔍 About Me
 
