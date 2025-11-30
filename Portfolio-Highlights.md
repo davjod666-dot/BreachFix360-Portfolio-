@@ -102,7 +102,9 @@ Exactly what a SOC analyst needs.
 🚧 Roadmap (In Progress)
 
 CS50X Harvard's Introduction to Cybersecurity - Completed November 2025
+
 Security Blue Team Junior Analyst - In Progress
+
 Linux Foundation Introduction to Linux - In Progress
 
 Short-Term
