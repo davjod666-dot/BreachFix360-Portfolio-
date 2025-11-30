@@ -48,35 +48,8 @@ Evidence-based incident writeups
 
 All content has been cleaned, standardised, and structured for readability and recruiter evaluation.
 
-BreachFix360-Portfolio/
-│
-├── Case-Studies/
-│   ├── Network-Analysis/
-│   │   ├── AWDL-WiFi-Analysis.md
-│   │   ├── Port443-Loopback-Anomaly.md
-│   │   ├── STUN-Multicast-Correlation.md
-│   │   ├── Telstra-Network-Case.md
-│   │   └── Telstra-Router-Edge-Event.md
-│   │
-│   └── System-Log-Analysis/
-│       ├── 1-Device-State-Mismatch.md
-│       ├── 2-RunningBoard-Telemetry-Anomaly.md
-│       ├── 3-Skywalk-NetworkExtension-Anomaly.md
-│       ├── 4-RunningBoard-Telemetry-Anomaly.md
-│       ├── 5-STUN-Multicast-Anomaly.md
-│       ├── 6-AWDL-Discovery-Anomaly.md
-│       ├── 7-Skywalk-FlowSwitch-DeepTunnel.md
-│       └── 8-UI-Masking-vs-Backend-Correlation.md
-│
-├── Documents/
-│   └── CV_David_Seabrook.md
-│
-├── Tools-And-Methods/
-│   └── .keep
-│
-├── Portfolio-Highlights.md
-└── README.md
-
+📁 Repository Layout (GitHub-Safe, Non-Wrapping)
+<pre> BreachFix360-Portfolio/ │ ├── Case-Studies/ │ ├── Network-Analysis/ │ │ ├── AWDL-WiFi-Analysis.md │ │ ├── Port443-Loopback-Anomaly.md │ │ ├── STUN-Multicast-Correlation.md │ │ ├── Telstra-Network-Case.md │ │ └── Telstra-Router-Edge-Event.md │ │ │ └── System-Log-Analysis/ │ ├── 1-Device-State-Mismatch.md │ ├── 2-RunningBoard-Telemetry-Anomaly.md │ ├── 3-Skywalk-NetworkExtension-Anomaly.md │ ├── 4-RunningBoard-Telemetry-Anomaly.md │ ├── 5-STUN-Multicast-Anomaly.md │ ├── 6-AWDL-Discovery-Anomaly.md │ ├── 7-Skywalk-FlowSwitch-DeepTunnel.md │ └── 8-UI-Masking-vs-Backend-Correlation.md │ ├── Documents/ │ └── CV_David_Seabrook.md │ ├── Tools-And-Methods/ │ └── .keep │ ├── Portfolio-Highlights.md └── README.md </pre>
 
 🧠 Key Competencies
 
