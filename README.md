@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" alt="David Seabrook SOC Banner" width="100%">
-</p>
-
 🛡️ BreachFix360 Cybersecurity Portfolio
 
 
