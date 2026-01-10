@@ -1,4 +1,4 @@
-🛡️ BreachFix360 Cybersecurity Portfolio
+🛡️ David Seabrook Cybersecurity Portfolio
 
 
 Analyst: D. Seabrook
@@ -10,8 +10,8 @@ Approach: Evidence-Driven • Log-First Learning • Hands On
 🔍 About Me
 
 
-I’m an up-and-coming SOC/DFIR analyst who takes a hands-on, investigation-first approach to learning.
-Instead of spending months stuck in theory, I immerse myself directly in:
+I am a career changer after 20 years in Emergency Services and Risk Management. I have chosen the Blue Team path as it aligns with my work experience, skills and way of thinking. I have chosen my own study package accordingly with a focus on Blue Team Concepts. Im an Junior SOC/DFIR/Vulnerability analyst who takes a hands-on, investigation-first approach to learning.
+Instead of spending wasted months stuck in theory, I have immersed myself directly in:
 
 Real logs
 
@@ -19,7 +19,7 @@ Real artefacts
 
 Real anomalies
 
-Real incidents
+Real incidents using real tools
 
 The quickest way to become effective in blue team work is to touch the data, break things, fix things, and study systems under real conditions. This portfolio reflects exactly that — a grounded, practical progression into cybersecurity built on forensic evidence, problem-solving, and log correlation, not guesswork.
 
