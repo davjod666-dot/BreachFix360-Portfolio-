@@ -101,23 +101,19 @@ Exactly what a SOC analyst needs.
 
 🚧 Roadmap (In Progress)
 
-CS50X Harvard's Introduction to Cybersecurity - Completed November 2025
+CS50X Harvard's Introduction to Cybersecurity - Completed 
 
-Security Blue Team Junior Analyst - In Progress
+Security Blue Team Junior Analyst - Completed
 
-Linux Foundation Introduction to Linux - In Progress
+Linux Foundation Introduction to Linux - Completed
 
-Short-Term
+Linux Foundation OWASP Top Ten Security Threats - Completed
 
-Add packet capture walkthroughs (PCAP → findings → summary)
+Long-Term (In Progress)
 
-Add Linux hardening notes
+Build a small home SOC lab using VM - Completed
 
-Add detection rules for common noise patterns (STUN, AWDL, NE, etc.)
-
-Long-Term
-
-Build a small home SOC lab
+Complete HTB Activities
 
 SIEM parsing simulations (Elastic / Wazuh / LimaCharlie)
 
@@ -125,8 +121,10 @@ IR playbook expansions
 
 Threat-hunting exercises
 
+Practice using tools EG: Wireshark, NMAP, Nessus etc
+
 👤 Author
 
 David Seabrook
-Emerging SOC Analyst — BreachFix360
+Blue Team Junior
 Newcastle NSW, Australia
