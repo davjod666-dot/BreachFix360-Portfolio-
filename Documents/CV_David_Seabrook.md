@@ -84,11 +84,17 @@ Former emergency services responder — resilient, disciplined, used to high-str
 
 Education & Training
 
-Harvard University CS50X Introduction to Cybersecurity - Completed 30/11/2025
+Harvard University CS50X Introduction to Cybersecurity 
 
-Blue Team Level 1 (BTL1) – Returning
+Security Blue Team Junior Analyst
 
-Currently studying: SOC workflows, log analysis, detection engineering fundamentals
+Linux Foundation Introduction to Linux
+
+Linux Foundation OWASP Top Ten Security Threats
+
+Certificate IV Leadership and Management
+
+Currently studying: Home Labs - Hack The Box
 
 Self-directed DFIR & network forensics practice
 
@@ -100,7 +106,7 @@ Availability
 
 Contact
 
-Email: mkubb2025@proton.me
+Email: dseabrook@outlook.com.au
 
 GitHub: github.com/davjod666-dot
 
